@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
 }
 
 ul {
@@ -30,10 +29,10 @@ header {
   text-align: center;
 }
 
-#cards{
+#cards {
 
-  display:flex;
-  flex-direction:column;
+  display: flex;
+  flex-direction: column;
   gap: 32px;
 
 }
@@ -74,27 +73,27 @@ header {
 }
 
 .card ul li {
-display: flex;
-align-items: center;
-justify-content: space-between;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.card ul li + li {
-  padding-top: 24px ;
+.card ul li+li {
+  padding-top: 24px;
   border-top: 1px solid #323238;
 }
 
 .card ul li strong {
-font-weight: 900; 
-font-size: 30px;
-line-height: 125%;
-color: #e1e1e6;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 125%;
+  color: #e1e1e6;
 
 }
 
 .card ul li strong:hover,
 .card ul li img:hover {
-  transform: scale(1.1) ;
+  transform: scale(1.1);
 }
 
 .card ul li strong:hover,
@@ -102,29 +101,30 @@ color: #e1e1e6;
   transition: transform 0.3s;
 }
 
-.card{
-animation: appear .5s;
+.card {
+  animation: appear .5s;
 
 }
 
 @keyframes appear {
-0% {
-  opacity: 0;
-}
-100% {
-opacity: 100;
+  0% {
+    opacity: 0;
+  }
 
-}
+  100% {
+    opacity: 100;
+
+  }
 
 }
 
 /* RESPONSIVIDADE - ADAPTANDO CARDS PARA DESKTOP */
-@media(min-width: 400px){
-#cards{
-  max-width: 700px ;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
+@media(min-width: 400px) {
+  #cards {
+    max-width: 700px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 
-  
+
 }
