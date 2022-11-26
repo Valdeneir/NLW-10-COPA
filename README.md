@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa 2022 (Brasil)" src="img.preview.jpg" width="100%">
+  <img alt="calendario da copa 2022 (Brasil)" src="https://github.com/Valdeneir/NLW-10-COPA/blob/main/img/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
