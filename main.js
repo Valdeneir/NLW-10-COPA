@@ -19,7 +19,6 @@ function createCard(date, day, games) {
   </div>
   `
 }
-console.log("card")
 document.querySelector("#cards").innerHTML =
   createCard(
     "24/11",
