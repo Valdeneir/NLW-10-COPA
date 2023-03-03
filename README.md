@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendário da Copa é um projeto que mostra os jogos referente a data dos confrontos da seleção Brasileira na primeira fase da Copa do Mundo de 2022.
 
+<p>Clique <a href="https://valdeneir.github.io/NLW-10-COPA"/>Aqui</a> para ver o projeto. </p>
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
